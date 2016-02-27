@@ -1,0 +1,30 @@
+_repo: The-Tragedy-of-King-Richard-III_1503
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Kings and rulers -- Drama'
+- !lcsh 'Richard III, King of England, 1452-1485 -- Drama'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Richard III, 1483-1485 -- Drama'
+- !lcsh 'Historical drama'
+- !lcsh 'Tragedies'
+title: The Tragedy of King Richard III
+url: http://www.gutenberg.org/ebooks/1503
