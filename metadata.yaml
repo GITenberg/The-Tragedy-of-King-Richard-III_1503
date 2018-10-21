@@ -1,5 +1,5 @@
 _repo: The-Tragedy-of-King-Richard-III_1503
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Great Britain -- History -- Richard III, 1483-1485 -- Drama'
 - !lcsh 'Historical drama'
 - !lcsh 'Tragedies'
+- GITenberg
 title: The Tragedy of King Richard III
 url: http://www.gutenberg.org/ebooks/1503
